@@ -8,7 +8,7 @@
 - Passion : Développement logiciel et exploration de nouvelles technologies
 - Vision Future : Me spécialiser en cybersécurité 🔐
 - 💬 Rejoignez-moi
-- Si vous souhaitez discuter, poser des questions ou collaborer, rejoignez notre communauté sur Discord : discord.gg/toolsfr
+- Si vous souhaitez discuter, poser des questions ou collaborer, rejoignez notre communauté sur Discord : hijaxx1
 
 - 🌟 Objectifs
 - Développer mes compétences en Python et JavaScript
