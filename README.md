@@ -1,18 +1,14 @@
-- ✨ Cristal ✨
-- 🌟 Introduction
-- Salut ! Je m'appelle Cristal. Bienvenue sur mon espace GitHub ! 🚀
+<div align = "center">
+    </br>
+  <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, i'm hash ^^ !</h1>
+<br>
+</div>
 
-- 👩‍💻 À propos de moi
-- Nom : Cristal
--- Langages de programmation : Python 🐍 et JavaScript 🌐
-- Passion : Développement logiciel et exploration de nouvelles technologies
-- Vision Future : Me spécialiser en cybersécurité 🔐
-- 💬 Rejoignez-moi
-- Si vous souhaitez discuter, poser des questions ou collaborer, rejoignez notre communauté sur Discord : hijaxx1
+## Github stats, Current Streak and Most Used Languages
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cristal&show_icons=true&theme=radical&hide_border=true&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cristal&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a2heus&layout=compact&theme=radical&hide_border=true&show_icons=true" />
+</p>
 
-- 🌟 Objectifs
-- Développer mes compétences en Python et JavaScript
-- Contribuer à des projets open-source
-- Explorer et me spécialiser dans le domaine de la cybersécurité
-- Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter pour toute collaboration ou simplement pour discuter de technologie. 😊
-
+<p align="center"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Wave"></p>
