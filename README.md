@@ -1,6 +1,6 @@
 <div align = "center">
     </br>
-  <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, i'm hash ^^ !</h1>
+  <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, i'm Cristal ^^ !</h1>
 <br>
 </div>
 
